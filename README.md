@@ -247,6 +247,6 @@ _134 archivos. Medidas leídas de la cabecera de cada PNG por el generador._
 | `apple-wallet/strip-375x123/stamps-10/strip@2x.png` | 750 × 246 | PNG · 20.0 KB | Franja #2A2521 con reglas #3A332D | pass: strip.png (storeCard) | 10 de 10 sellos. Guía de marca / guía antigua de Apple (375×123 pt). |
 | `apple-wallet/strip-375x123/stamps-10/strip@3x.png` | 1125 × 369 | PNG · 31.1 KB | Franja #2A2521 con reglas #3A332D | pass: strip.png (storeCard) | 10 de 10 sellos. Guía de marca / guía antigua de Apple (375×123 pt). |
 | `social/enso-avatar-1080.png` | 1080 × 1080 | PNG · 24.6 KB | Naranja Sello #E4572E | Foto de perfil (Instagram, LinkedIn, Facebook, Google) | De enso-avatar.svg; seguro para recorte circular. |
-| `social/og-image-1200x630.png` | 1200 × 630 | PNG · 53.5 KB | Naranja Sello #E4572E | Web: og:image / twitter:image | Plantilla Oferta, "desde USD 40 al mes". |
+| `social/og-image-1200x630.png` | 1200 × 630 | PNG · 53.5 KB | Naranja Sello #E4572E | Web: og:image / twitter:image | Plantilla Oferta, "desde USD 30 al mes". |
 
 <!-- inventario:fin -->
